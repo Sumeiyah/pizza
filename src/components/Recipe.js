@@ -27,7 +27,7 @@ const Recipe = () => {
             <img src={recipe.image_url} alt={recipe.title} className="w-full h-32 object-cover rounded-md" />
             <p className="text-lg font-bold mt-2">{recipe.title}</p>
             <p className="text-lg">By: {recipe.publisher}</p>
-            <a href={recipe.source_url} target="_blank" rel="noopener noreferrer" className="text-blue-500 underline">
+            <a href={recipe.source_url} target="_self" rel="noopener noreferrer" className="text-blue-500 underline">
               View Recipe
             </a>
           </div>
