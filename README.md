@@ -13,11 +13,7 @@ A web application for pizza lovers to explore various pizza recipes from around 
 - [Technologies Used](#technologies-used)
 
 - 
-
-
-- 
-- 
-- [Installation](#installation)
+Installation](#installation)
 - [Usage](#usage)
 - [API Used](#api-used)
 - [Contributing](#contributing)
