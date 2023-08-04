@@ -6,6 +6,7 @@ A web application for pizza lovers to explore various pizza recipes from around 
 
 ![App Screenshot](/path/to/screenshot.png)
 
+
 ## Table of Contents
 
 - [Demo](#demo)
