@@ -71,7 +71,7 @@ npm start
 ## API Used
 
 The application fetches pizza recipes from the following API:
-[https://api.npoint.io/772a7f191338c98ada3c](https://api.npoint.io/772a7f191338c98ada3c)
+https://forkify-api.herokuapp.com/api/search?q=pizza
 
 ## Contributing
 
