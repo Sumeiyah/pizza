@@ -83,4 +83,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to modify this README template as per your project's specific needs. The goal is to provide clear and concise information to users and contributors about your React Pizza App. Make sure to include relevant links, images, and instructions for installation and usage. Additionally, consider adding sections for troubleshooting and deployment if applicable to your project.
+##Author
+Sumeya Farah
